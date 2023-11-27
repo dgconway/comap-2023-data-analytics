@@ -6,7 +6,7 @@ Our solution was judged to be Meritorious (top 10%). Official results are here: 
 
 We modeled the distribution of Wordle players over time, analyzed why words are more/less challenging for Wordle players, and used these models to make predictions about word distributions on future dates.
 
-We developed this project in 4 days as a solution to the 2023 MCM competition: https://contest.comap.com/undergraduate/contests/mcm/contests/2023/problems/2023_MCM_Problem_C.pdf.
+We developed this project in 4 days as a solution to the February 2023 MCM competition.
 
 Our final paper is in the FinalSubmission.pdf file. This file contains our aggregate results.
 
